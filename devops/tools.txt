@@ -1,0 +1,23 @@
+Git is a distributed revision control system with an emphasis on speed data integrity and support for distributed non-linear workflows.
+Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005 and has since become the most widely 
+adopted version control system for software development.
+
+GITHUB : [ WEB-BASED | GUI ] | Public & Private Repositories
+GitHub is a web-based Git repository hosting service which offers all of the distributed revision control and source code management 
+(SCM) functionality of Git as well as adding its own features. 
+
+Unlike Git which is strictly a command-line tool GitHub provides a web-based graphical interface and desktop as well as
+ mobile integration. GitHub offers both commercial plans and free accounts.
+
+GITLAB SCM : [ WEB-BASED | GUI ] | Public & Private Repositories
+GitLab's SCM (source code management) solution supports software development teams to collaborate communicate in order to 
+quickly solve problems and deliver new features. GitLab offers both commercial plans and free accounts.
+
+ATLASSIAN BITBUCKET : [ WEB-BASED | GUI ] | Public & Private Repositories
+Bitbucket is a web-based hosting service for projects that use either the Mercurial (since launch) or 
+Git (since October 2011[1]) revision control systems. Bitbucket offers both commercial plans and free accounts.
+
+AWS CodeCommit : [ WEB-BASED | GUI ] | Private Repositories
+    - Create a secure repository to store and share your code.
+
+Azure Repos : [ WEB-BASED | GUI ] | Private Repositories
